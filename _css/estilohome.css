@@ -1,0 +1,75 @@
+body {
+    color: black;
+    margin: 0px;
+    padding: 0px;
+}
+
+#conteudo {
+    background-color: rgba(162, 161, 161, 0.71);
+    min-height: 1600px;
+
+}
+
+#formulario {
+    padding: 10px 10px 10px 10px;
+    margin-left: 10px;
+}
+
+#formulario2 {
+    padding: 10px 10px 10px 10px;
+    width: 49%;
+    height: 764px;
+    float: right;
+}
+
+#tamanho-img img {
+    width: 640px;
+    height: 460px
+}
+
+#topbar {
+    position: fixed;
+    width: 100%;
+    opacity: 0.8;
+    margin-top: 0px;
+    z-index: 900;
+}
+
+#solucoes {
+    width: 100%;
+    height: 400px;
+    background-color: #2aabd2;
+    padding: 10px 1px 1px 1px;
+    text-align: center;
+}
+
+#siteoficial span {
+    color: darkred;
+    font-style: italic;
+    font-weight: bolder;
+}
+
+p#solucoe {
+    font-size: 18px;
+    font-style: italic;
+    font-weight: bolder;
+}
+
+#alinhamento {
+    margin: 0px;
+    padding: 0px;
+    margin: 0px 5px 0px 5px;
+    width: 16rem;
+}
+
+#rede-social li {
+    padding: 2px 2px 2px 2px;
+}
+
+.align-card {
+    margin: 0px 5px 0px 5px;
+    width: 16rem;
+}
+#align-all{
+    margin: 0px 5px 0px 31px;
+}

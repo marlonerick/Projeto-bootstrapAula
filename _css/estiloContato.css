@@ -1,0 +1,79 @@
+body {
+    color: black;
+    margin: 0px;
+    padding: 0px;
+}
+
+#conteudo {
+    background-color: rgba(162, 161, 161, 0.71);
+    min-height: 900px;
+}
+
+#conteudo2 {
+    background-color: rgba(64, 63, 63, 0.71);
+}
+
+div#formulario {
+    padding: 10px 10px 10px 10px;
+    margin-left: 10px;
+    width: 49%;
+    float: left;
+    background-color: whitesmoke;
+}
+
+#formulario2 {
+    padding: 10px 10px 10px 10px;
+    width: 49%;
+    height: 764px;
+    float: right;
+    background-color: whitesmoke;
+}
+
+#carregar-arquivo {
+    padding: 10px 10px 10px 10px;
+}
+
+h1 {
+    color: black;
+    font-size: 20px;
+    text-align: center;
+    padding: 3px 3px 3px 3px;
+}
+
+h2 {
+    color: black;
+    font-size: 20px;
+    background-color: gray;
+    text-align: center;
+    padding: 3px 3px 3px 3px;
+}
+
+#borda {
+    width: 582px;
+    height: 240px;
+    background-color: whitesmoke;
+    border: solid 2px black;
+}
+
+p {
+    font-family: Arial, Sans-Serif;
+    font-size: 15px;
+    color: black;
+    text-align: center;
+}
+
+#rede-social li {
+    padding: 2px 2px 2px 2px;
+}
+
+#topbar {
+    position: fixed;
+    width: 100%;
+    opacity: 0.8;
+    margin-top: 0px;
+    z-index: 900;
+}
+
+#margin-top {
+    padding-top: 90px;
+}
